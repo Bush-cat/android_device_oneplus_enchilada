@@ -15,8 +15,8 @@ jobs:
       CODENAME: 'enchilada'
       FLAVOR: 'eng'
       PB_OFFICIAL: 'true'
-      #TEST_BUILD: 'true'
-      MAINTAINER: '@SIDDK'
+      #TEST_BUILD: 'false'
+      MAINTAINER: 'Bushcat'
       CHANGELOG: |
         - Fixed Android 11 Decryption
         - Notch Adjustment
